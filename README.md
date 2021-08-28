@@ -1,6 +1,6 @@
 # SparkfundsEDA
 
-Business and Data Understanding
+## Business and Data Understanding
 
 Spark Funds has two minor constraints for investments:
 
