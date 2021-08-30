@@ -13,8 +13,6 @@ Spark Funds has two minor constraints for investments:
 
     For your analysis, consider a country to be English speaking only if English is one of the official languages in that country
 
-    You may use this list: Click here for a list of countries where English is an official language.
-
  
 
 These conditions will give you sufficient information for your initial analysis. Before getting to specific questions, let’s understand the problem and the data first.
